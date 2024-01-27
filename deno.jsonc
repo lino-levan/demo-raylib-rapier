@@ -1,0 +1,5 @@
+{
+  "imports": {
+    "raylib": "../raylib-deno/mod.ts"
+  }
+}
